@@ -1,6 +1,6 @@
 public class Usuario {
-    public String nombre;
-    public String id;
+    private String nombre;
+    private String id;
 
     public Usuario(){}
     public Usuario(String nombre, String id) {

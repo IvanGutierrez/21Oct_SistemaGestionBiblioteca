@@ -1,7 +1,7 @@
 public class Libro {
-    public String titulo;
-    public String autor;
-    public String isbn;
+    private String titulo;
+    private String autor;
+    private String isbn;
 
     public Libro(){}
     public Libro(String titulo, String autor, String isbn) {
